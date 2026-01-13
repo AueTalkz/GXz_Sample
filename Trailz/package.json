@@ -1,3 +1,11 @@
+"homepage": "https://auetalkz.github.io/GXz_Sample"
+
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
+
 {
   "name": "trailz",
   "private": true,
