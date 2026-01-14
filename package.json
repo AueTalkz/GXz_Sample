@@ -1,4 +1,4 @@
-"homepage": "https://auetalkz.github.io/GXz_Sample"
+"homepage": "https://auetalkz.github.io/GXz_Sample",
 
 "scripts": {
   "predeploy": "npm run build",
