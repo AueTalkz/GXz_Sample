@@ -19,7 +19,7 @@ body::-webkit-scrollbar {
 #root {
     min-height: 100vh;
     font-family: Arial, sans-serif;
-    background-image: url(112121.jpg);
+    background-image: url(public/112121.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
