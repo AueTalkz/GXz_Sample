@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer>
-            <p> © 2026 Trailz. All rights reserved.</p>
+            <p> © 2026 Geatz. All rights reserved.</p>
         </footer>
     );
 }
