@@ -1,4 +1,4 @@
-sfunction Projects(){
+function Projects(){
 
     return(
         <section className="project">
