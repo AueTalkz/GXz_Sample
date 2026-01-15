@@ -10,7 +10,7 @@ function Hero() {
         <div className="type-text">
             <TypingText />
         </div>
-       <p><b>Discover Your Brand'z Voice with GXz</b></p>
+       <p><b>Discover Your Brand'z Voice with Uz</b></p>
       </div>
       <img src="GXz.png" alt="Home Image" />
             
