@@ -10,7 +10,7 @@ function Header() {
             </div>
 
             <ul className="nav-links">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="#hero">Home</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#team">Team</a></li>
                 <li><a href="#project">Projects</a></li>
