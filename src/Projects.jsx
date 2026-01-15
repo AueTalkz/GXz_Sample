@@ -1,9 +1,9 @@
-function Projects(){
+sfunction Projects(){
 
     return(
         <section className="project">
 
-            <div className="Project">
+            <div className="Projects">
             <h2> Projects </h2>
                     <div className="Work">
                         <div className="PW">
