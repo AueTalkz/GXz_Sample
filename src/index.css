@@ -468,7 +468,7 @@ body::-webkit-scrollbar {
 
 /* Contact Section Styles */
 
-.Contacts{ 
+.contacts{ 
     background: rgba(209, 190, 190, 0.477);
     color: white;
     border-radius: 15px;
@@ -493,7 +493,7 @@ body::-webkit-scrollbar {
 }
 
 /* Optional underline effect for title */
-.Contacts h1::after{
+.contacts h1::after{
   content: "";
   position: absolute;
   bottom: -12px;
@@ -505,7 +505,7 @@ body::-webkit-scrollbar {
   border-radius: 2px;
 }
 
-.Contacts h2::after{
+.contacts h2::after{
   content: "";
   position: absolute;
   bottom: -12px;
@@ -517,7 +517,7 @@ body::-webkit-scrollbar {
   border-radius: 2px;
 }
 
-.Contacts .Social h2::after{
+.contacts .Social h2::after{
   content: "";
   position: absolute;
   bottom: -12px;
