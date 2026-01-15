@@ -1,7 +1,7 @@
 function Projects(){
 
     return(
-        <section id="project">
+        <section className="project" id="project">
 
             <div className="Projects">
             <h2> Projects </h2>
