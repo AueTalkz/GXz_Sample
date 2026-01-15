@@ -2,7 +2,7 @@ import TypingText from "./TypingText";
 
 function Hero() {  
     return (
-        <section id="hero">
+        <section className="hero" id="hero">
             <div className="hero-content">
 
           <h1>Welcome to</h1> <br/><h2>Geatz Xplorz,</h2>
