@@ -6,7 +6,8 @@ function Hero() {
             <div className="hero-content">
 
           <h1>Welcome to</h1> <br/><h2>Geatz Xplorz,</h2>
-        <h3>We Provide Services in <br /></h3>
+        <h3>We Provide Services in</h3>
+<br/>
         <div className="type-text">
             <TypingText />
         </div>
