@@ -1,7 +1,7 @@
 function Contact(){
     return(
 
-        <section className="contacts">
+        <section className="contacts" id="contacts">
             <h1>Contact</h1>
             <br />
 
