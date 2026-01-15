@@ -370,7 +370,7 @@ body::-webkit-scrollbar {
 
 /* Projects */
 
-.Projects{
+.project{
     background: rgba(209, 190, 190, 0.477);
     color: white;
     border-radius: 15px;
@@ -383,7 +383,7 @@ body::-webkit-scrollbar {
     
 }
 
-.Projects h2{
+.project h2{
     font-size: 2.8rem;
     color: #fff;
     text-align: center;
@@ -395,7 +395,7 @@ body::-webkit-scrollbar {
 }
 
 /* Optional underline effect for title */
-.Projects h2::after{
+.project h2::after{
   content: "";
   position: absolute;
   bottom: -12px;
