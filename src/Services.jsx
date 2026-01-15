@@ -1,6 +1,6 @@
 function Services() {
   return (
-    <section id="services">
+    <section className="services" id="services">
 
       <div className="service-cards">
       <h2>Our Services</h2>
