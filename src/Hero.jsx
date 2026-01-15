@@ -5,7 +5,7 @@ function Hero() {
         <section className="hero">
             <div className="hero-content">
 
-          <h1>Welcome to Geatz Xplorz,</h1>
+          <h1>Welcome to <br/> Geatz Xplorz,</h1>
         <h3>We Provide Services in <br /></h3>
         <div className="type-text">
             <TypingText />
