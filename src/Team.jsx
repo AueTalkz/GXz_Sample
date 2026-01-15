@@ -1,6 +1,6 @@
 function Team(){
     return(
-        <section className="team">
+        <section id="team">
            
         <div className="team-cards">
             <h2>Our Team</h2>
